@@ -237,4 +237,4 @@ This repository serves as the official landing page for Windows XP SP2. The soft
 **Get the most recent version of Windows XP SP2 today!**
 
 ---
-**Last updated:** 2026-10-03 11:26:56 UTC
+**Last updated:** 2026-10-03 15:38:05 UTC
